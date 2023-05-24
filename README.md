@@ -1,7 +1,7 @@
 ![MasterHead](https://www.apple.com/newsroom/images/product/app-store/apple_wwdc-app-developer-academy_hero_05112021_big.gif.large.gif)
 <h1 align="center">Hi 👋, I'm Alvin Reyvaldo</h1>
 <h3 align="center">iOS Development Enthusiast</h3>
-<img align="right" alt="Coding" width="400" height="400" src="https://camo.githubusercontent.com/f6a2c625bbd9c52c6847d8368066acb566beb36e08b157577a34d070d03078bf/68747470733a2f2f692e696d6775722e636f6d2f7051574937676e2e676966">
+<img align="right" alt="Coding" width="400" height="200" src="https://camo.githubusercontent.com/f6a2c625bbd9c52c6847d8368066acb566beb36e08b157577a34d070d03078bf/68747470733a2f2f692e696d6775722e636f6d2f7051574937676e2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvinalibaba1&label=Profile%20views&color=0e75b6&style=flat" alt="alvinalibaba1" /> </p>
 
