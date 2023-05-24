@@ -1,4 +1,4 @@
-[![MasterHead](https://www.apple.com/newsroom/images/product/app-store/apple_wwdc-app-developer-academy_hero_05112021_big.gif.large.gif)]
+[!MasterHead](https://www.apple.com/newsroom/images/product/app-store/apple_wwdc-app-developer-academy_hero_05112021_big.gif.large.gif)]
 <h1 align="center">Hi 👋, I'm Alvin Reyvaldo</h1>
 <h3 align="center">iOS Development Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1233499/screenshots/3852878/mobile-development2-2.gif">
@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/alvinalibaba1](https://github.com/alvinalibaba1)
 
-- 📫 How to reach me **alvinreyvald1@gmail.com**
+- 📫 How to reach me **alvinreyvaldo1@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1wjb55B8_1Y67XxgoKujm6wLho3lLyXOoX0xIBq_74D0/edit?usp=sharing](https://docs.google.com/document/d/1wjb55B8_1Y67XxgoKujm6wLho3lLyXOoX0xIBq_74D0/edit?usp=sharing)
 
